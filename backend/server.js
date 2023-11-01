@@ -32,38 +32,38 @@ app.post('/start-run', (req, res) => {
 
 const serverCheckpoints = [
     {
-        latitude: 37.76315388023181,
-        longitude: -122.43703865800339,
+        latitude: 37.76330191194163,
+        longitude: -122.43706560688697,
         audio: './audios/audio1.mp3'
     },
     {
-        latitude: 37.763303634573454,
-        longitude: -122.43706279788826,
+        latitude: 37.763335838547796,
+        longitude: -122.43694088416595,
         audio: './audios/audio2.mp3'
     },
     {
-        latitude: 37.76269160298254,
-        longitude: -122.43517363523765,
+        latitude: 37.76336100554575,
+        longitude: -122.43659344258074,
         audio: './audios/audio3.mp3'
     },
     {
-        latitude: 37.76275160298254,
-        longitude: -122.43523363523765,
+        latitude: 37.76330982030606,
+        longitude: -122.43614628631695,
         audio: './audios/audio4.mp3'
     },
     {
-        latitude: 37.76281160298254,
-        longitude: -122.43529363523765,
+        latitude: 37.76335001620028,
+        longitude: -122.43538762723672,
         audio: './audios/audio5.mp3'
     },
     {
-        latitude: 37.76287160298254,
-        longitude: -122.43535363523765,
+        latitude: 37.762932684480795,
+        longitude: -122.43533704006848,
         audio: './audios/audio6.mp3'
     },
     {
-        latitude: 37.76293160298254,
-        longitude: -122.43541363523765,
+        latitude: 37.76266345935579,
+        longitude: -122.43490246100194,
         audio: './audios/audio7.mp3'
     }
 ];
